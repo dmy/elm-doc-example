@@ -3,7 +3,7 @@ module ModuleA exposing
     , functionA
     )
 
-{-| This module is an example for [elm-doc-preview](https://elm-doc-preview.netlify.com).
+{-| This module from [elm-doc-example](https://github.com/dmy/elm-doc-example) is an example for [elm-doc-preview](https://elm-doc-preview.netlify.com).
 
 
 # Example code
