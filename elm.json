@@ -2,7 +2,7 @@
     "type": "package",
     "name": "dmy/elm-doc-example",
     "summary": "A package documentation example for elm-doc-preview",
-    "license": "MIT",
+    "license": "BSD-3-Clause",
     "version": "1.0.0",
     "exposed-modules": [
         "ModuleA",
